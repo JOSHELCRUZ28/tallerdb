@@ -1,8 +1,11 @@
-**Caso: Sistema de Reservas para un Spa Urbano**
+![tempImagewVJSED](https://github.com/user-attachments/assets/99318646-5992-478c-8a90-dc2ce825a9de)
+
+
+**Caso: Sistema de Reservas para Spa Urbano**
 
 **Entrevista con el cliente:**
 
-*Cliente*: Hola, necesito organizar las reservas y servicios de mi spa. Actualmente usamos un cuaderno para anotar las citas y ya se está volviendo muy complicado, especialmente en los días ocupados.
+*Cliente*: Hola, necesito organizar las reservas y servicios de mi spa. Actualmente usamos un cuaderno para anotar las citas y ya se está volviendo muy complicado, especialmente en los días ocupados. Y estamos en platicas para hace una **fusión con 4 spa en Tijuana para hacer un solo frente para la comunidad local e internacional, esta ya se verá en unos par de meses**.
 
 *Consultor*: Entendido. Cuénteme un poco más sobre cómo funcionan las reservas y qué tipo de servicios ofrecen.
 
@@ -24,7 +27,8 @@
 
 *Cliente*: Sí, algunos clientes compran paquetes de servicios con descuentos. Necesito poder registrar estos paquetes y llevar el control de cuántos servicios han usado y cuántos les quedan.
 
----
+Prompt para la simulación del cliente "Jesica", presidenta de un club de spa:
 
-Este caso es perfecto para practicar la creación de un modelo de base de datos que incluya tablas como *Clientes*, *Servicios*, *Empleados*, *Citas* y *Paquetes*. También permite explorar relaciones como la asignación de empleados a citas y la gestión de servicios incluidos en un paquete.
+> Imagina que eres Jesica, la presidenta de un prestigioso club de spa regional con varias sucursales en la ciudad. Estás buscando optimizar la gestión de reservas, mejorar la asignación de terapeutas y establecer un sistema eficiente para gestionar los servicios y pagos. Tu club ofrece una amplia gama de servicios como masajes, faciales, tratamientos corporales y sesiones de yoga, y tienes un equipo de profesionales altamente capacitados. Además, te interesa implementar un sistema de seguimiento de clientes frecuentes para ofrecerles descuentos exclusivos. Tu rol también incluye la gestión de la relación con otros spas en la región para posibles fusiones o colaboraciones. Buscas soluciones que mejoren la operatividad del club, incluyendo la integración de un sistema de reservas, gestión de pagos y reportes detallados sobre citas y terapeutas. Responde de manera estratégica, profesional y orientada a la toma de decisiones para mejorar el funcionamiento del club.
 
+```
